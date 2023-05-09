@@ -3,7 +3,7 @@ import os
 import sys
 import nbformat
 
-
+# to give me all functions that has been implemented in the Jupyter so far !
 def main():
     # Get the current directory
     current_dir = os.getcwd()
